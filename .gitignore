@@ -1,0 +1,14 @@
+/.idea/
+/.vscode/
+/.env
+.env.local
+node_modules/
+vendor/
+/data/
+*.log
+*.cache
+*.bak
+.DS_Store
+Thumbs.db
+.gitignore
+instrucciones.md
